@@ -1,0 +1,20 @@
+# Code Owners for PRP Collaboration Exercise
+# These users will be automatically requested for review on pull requests
+
+# Default owner for everything in the repo
+* @instructor
+
+# Student PRPs require instructor or TA review
+/student-PRPs/ @instructor @teaching-assistant
+
+# Template changes require instructor approval only
+/PRP-template/ @instructor
+
+# Exercise modifications require instructor approval
+/exercises/ @instructor
+
+# Resource documentation
+/resources/ @instructor @teaching-assistant
+
+# GitHub configuration files
+/.github/ @instructor
