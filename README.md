@@ -31,4 +31,4 @@ This framework enables production-ready code generation on the first attempt by 
 
 ---
 
-*Empowering developers to become code architects through context engineering.*
+*Empowering developers to become code architects through context engineering.*# PRPs
